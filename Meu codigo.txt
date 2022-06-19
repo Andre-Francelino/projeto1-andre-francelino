@@ -1,2 +1,4 @@
 Olá!
 Meu nome é André
+
+Eu sou uma nova linha aqui nesse arquivo
